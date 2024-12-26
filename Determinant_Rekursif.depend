@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1735097308 source:d:\determinant_iteratif\determinant_rekursif\main.cpp
+	<iostream>
+	<vector>
+	<chrono>
+	<cstdlib>
+
